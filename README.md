@@ -46,7 +46,7 @@ The **Real-Time Forest Encroachment Detection System** is a remote sensing solut
 
 
 ## License  
-This project is licensed under the [GNU General Public License](./LICENSE) - see the LICENSE file for details.
+This project is licensed under the GNU General Public License - see the [LICENSE](https://github.com/Madhurya2303/Forest-Encroachment-Detection/blob/main/LICENSE) file for details.
 
 
 ## Acknowledgments  
