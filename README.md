@@ -1,4 +1,4 @@
-# Real-Time Forest Encroachment Detection System 🌳  
+# Real-Time Forest Encroachment Detection System 
 
 The **Real-Time Forest Encroachment Detection System** is a remote sensing solution for detecting and monitoring forest cover loss in the **Nallamala Forest region**. Using the Hansen Global Forest Change dataset,Landsat satellite imagery and NDVI metrics, forest cover loss across **Prakasam, Kurnool, Kadapa, Guntur, and Nandyal** districts was quantified at a resolution of 30 meters.
 
@@ -43,10 +43,6 @@ The **Real-Time Forest Encroachment Detection System** is a remote sensing solut
 - **Deforestation Maps**: Highlight deforested areas in red.  
 - **Quantitative Estimates**: Displays deforested area in hectares.  
 - **Coordinates**: Lists spatial locations of affected regions.  
-
-
-## License  
-This project is licensed under the GNU General Public License - see the [LICENSE](https://github.com/Madhurya2303/Forest-Encroachment-Detection/blob/main/LICENSE) file for details.
 
 
 ## Acknowledgments  
